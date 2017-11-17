@@ -1,0 +1,27 @@
+Penjelasan Singkat Dari Desain Aplikasi
+
+Sinopsis:
+Aplikasi yang kami buat berupa suatu game tiga dimensi untuk komputer menggunakan java language. Kami menggunakan karakter bernama sinbad. 
+Karakter ini berbadan kekar dan berwarna kulit hijau. 
+Yang dapat dilakukan oleh karakter ini yaitu berlari, melompat, dan bergerak ke kiri/kanan.
+Game kami bersuasana padang pasir, untuk itu kami menggunakan background dan BGM yang cukup mendukung.
+Usahakan sinbad hidup selama mungkin dengan tidak keluar jalur ataupun menabrak obstacle.
+
+Controls:
+Game ini dijalankan dengan cara menekan tombol P untuk 
+mulai, tombol spasi untuk melompat, tombol kiri/kanan untuk bergeser, tombol F9 untuk pause, 
+dan tombol Esc untuk keluar dari game.
+
+Introductions:
+Saat game dimulai, sinbad akan berlari di atas lintasan
+berwarna krem dan melewati dua buah obstacle, yaitu berupa kayu berwarna kecoklatan dan awan berwarna hitam. 
+Untuk melewati kayu, sinbad bisa melompat atau menghindar melintasinya. 
+Untuk melewati awan, sinbad tidak boleh melompat terlalu tinggi agar tidak menabraknya. 
+
+Semakin lama game ini dimainkan maka sinbad akan berlari semakin cepat dan score semakin bertambah. 
+Apabila karakter menabrak obstacle atau sinbad bergeser sampai keluar dari lintasan maka game akan berhenti. 
+
+Score dan highscore akan ditampilkan di layar selama game dimainkan. Apabila score saat ini lebih besar dari score-score 
+sebelumnya maka high score berubah. 
+
+ 
